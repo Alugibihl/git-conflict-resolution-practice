@@ -1,2 +1,2 @@
-# git-conflict-resolution-practice
+# first-branch
 A practice at fixing merge conflicts
