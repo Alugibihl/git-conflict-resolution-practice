@@ -1,2 +1,3 @@
-# second-branch
+
+# first-branch
 A practice at fixing merge conflicts
